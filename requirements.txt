@@ -1,0 +1,3 @@
+requests
+flask
+json_minify
